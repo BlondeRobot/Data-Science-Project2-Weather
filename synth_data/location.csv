@@ -1,0 +1,401 @@
+location_id,lat,long,city,region,country,customer
+1,41.3851,2.1734,Barcelona,Catalonia,Spain,Hospital Clinic de Barcelona
+2,41.3921,2.1643,Barcelona,Catalonia,Spain,Barcelona Food Processing
+3,41.4036,2.1744,Barcelona,Catalonia,Spain,Catalonia Industrial Systems
+4,41.3797,2.1686,Barcelona,Catalonia,Spain,University Hospital of Barcelona
+5,41.4084,2.2156,Barcelona,Catalonia,Spain,Barcelona Medical Devices
+6,41.3961,2.1936,Barcelona,Catalonia,Spain,Catalonia Pharmaceutical Plant
+7,41.4102,2.1633,Barcelona,Catalonia,Spain,Barcelona Biotech Research
+8,41.3768,2.1519,Barcelona,Catalonia,Spain,Mediterranean Food Industries
+9,41.3848,2.1903,Barcelona,Catalonia,Spain,Barcelona Regional Hospital
+10,41.4014,2.1745,Barcelona,Catalonia,Spain,Catalonia Advanced Manufacturing
+11,40.4168,-3.7038,Madrid,Community of Madrid,Spain,Hospital La Paz Madrid
+12,40.4115,-3.6924,Madrid,Community of Madrid,Spain,Madrid Food Distributors
+13,40.4381,-3.7162,Madrid,Community of Madrid,Spain,University of Madrid
+14,40.4255,-3.6859,Madrid,Community of Madrid,Spain,Madrid Industrial Complex
+15,40.4123,-3.7136,Madrid,Community of Madrid,Spain,Madrid Pharmaceutical Industries
+16,40.4465,-3.6921,Madrid,Community of Madrid,Spain,Madrid Children's Hospital
+17,40.4301,-3.7118,Madrid,Community of Madrid,Spain,Iberian Food Processing Plant
+18,40.4187,-3.6755,Madrid,Community of Madrid,Spain,Madrid Medical Systems
+19,40.4348,-3.6972,Madrid,Community of Madrid,Spain,Madrid Central Hospital
+20,40.4207,-3.7276,Madrid,Community of Madrid,Spain,Madrid Technology Park
+21,39.4697,-0.3774,Valencia,Valencian Community,Spain,Valencia General Hospital
+22,39.4562,-0.3548,Valencia,Valencian Community,Spain,Valencia Food Corporation
+23,39.4854,-0.3616,Valencia,Valencian Community,Spain,Valencia Industrial Supplies
+24,39.4789,-0.3920,Valencia,Valencian Community,Spain,University of Valencia Medical Center
+25,39.4652,-0.3408,Valencia,Valencian Community,Spain,Valencia Chemical Processing
+26,39.4736,-0.3863,Valencia,Valencian Community,Spain,Valencia Manufacturing Center
+27,39.4525,-0.3827,Valencia,Valencian Community,Spain,Valencia Regional Hospital
+28,39.4879,-0.3726,Valencia,Valencian Community,Spain,Mediterranean Fruit Processors
+29,39.4713,-0.3534,Valencia,Valencian Community,Spain,Valencia Industrial Park
+30,39.4624,-0.3649,Valencia,Valencian Community,Spain,Valencia Medical Supplies
+31,37.3891,-5.9845,Seville,Andalusia,Spain,Hospital Universitario Virgen del Rocío
+32,37.3764,-5.9863,Seville,Andalusia,Spain,Andalusian Food Producers
+33,37.3822,-5.9734,Seville,Andalusia,Spain,Seville Industrial Machinery
+34,37.4018,-5.9969,Seville,Andalusia,Spain,University of Seville Hospital
+35,37.3954,-5.9835,Seville,Andalusia,Spain,Seville Manufacturing Complex
+36,37.3841,-5.9612,Seville,Andalusia,Spain,Seville Medical Research Center
+37,37.4076,-5.9735,Seville,Andalusia,Spain,Andalusian Food Processing
+38,37.3795,-5.9704,Seville,Andalusia,Spain,Seville Regional Hospital
+39,37.3869,-5.9966,Seville,Andalusia,Spain,Seville Industrial Technology
+40,37.3927,-5.9886,Seville,Andalusia,Spain,Seville Pharmaceutical Industries
+41,43.2630,-2.9350,Bilbao,Basque Country,Spain,Hospital de Basurto
+42,43.2569,-2.9234,Bilbao,Basque Country,Spain,Bilbao Steel Industries
+43,43.2736,-2.9481,Bilbao,Basque Country,Spain,Basque Food Producers
+44,43.2615,-2.9475,Bilbao,Basque Country,Spain,University Medical Center of Bilbao
+45,43.2692,-2.9386,Bilbao,Basque Country,Spain,Bilbao Industrial Solutions
+46,43.2541,-2.9271,Bilbao,Basque Country,Spain,Bilbao Regional Hospital
+47,43.2683,-2.9198,Bilbao,Basque Country,Spain,Basque Manufacturing Systems
+48,43.2617,-2.9313,Bilbao,Basque Country,Spain,Bilbao Technology Park
+49,43.2724,-2.9404,Bilbao,Basque Country,Spain,Bilbao Food Processing Plant
+50,43.2577,-2.9357,Bilbao,Basque Country,Spain,Bilbao Medical Devices
+51,36.7212,-4.4217,Malaga,Andalusia,Spain,Hospital Regional de Málaga
+52,36.7165,-4.4257,Malaga,Andalusia,Spain,Málaga Food Industries
+53,36.7314,-4.4405,Malaga,Andalusia,Spain,Andalusian Technology Park
+54,36.7246,-4.4189,Malaga,Andalusia,Spain,University Hospital of Málaga
+55,36.7183,-4.4328,Malaga,Andalusia,Spain,Málaga Industrial Complex
+56,36.7276,-4.4261,Malaga,Andalusia,Spain,Málaga Medical Center
+57,36.7151,-4.4134,Malaga,Andalusia,Spain,Costa del Sol Food Processing
+58,36.7309,-4.4287,Malaga,Andalusia,Spain,Málaga Manufacturing Solutions
+59,36.7236,-4.4356,Malaga,Andalusia,Spain,Málaga Regional Hospital
+60,36.7196,-4.4219,Malaga,Andalusia,Spain,Málaga Pharmaceutical Plant
+61,37.1774,-3.5986,Granada,Andalusia,Spain,Hospital Universitario San Cecilio
+62,37.1883,-3.6067,Granada,Andalusia,Spain,Granada Food Producers
+63,37.1922,-3.6136,Granada,Andalusia,Spain,Granada Industrial Park
+64,37.1835,-3.5923,Granada,Andalusia,Spain,University Medical Center of Granada
+65,37.1756,-3.6089,Granada,Andalusia,Spain,Granada Manufacturing Systems
+66,37.1809,-3.5998,Granada,Andalusia,Spain,Granada Regional Hospital
+67,37.1964,-3.6024,Granada,Andalusia,Spain,Andalusian Processing Plant
+68,37.1873,-3.5944,Granada,Andalusia,Spain,Granada Biotech Research
+69,37.1793,-3.6129,Granada,Andalusia,Spain,Granada Medical Technologies
+70,37.1887,-3.5879,Granada,Andalusia,Spain,Granada Industrial Solutions
+71,43.3623,-5.8493,Oviedo,Asturias,Spain,Hospital Universitario Central de Asturias
+72,43.3683,-5.8526,Oviedo,Asturias,Spain,Asturian Food Processing
+73,43.3587,-5.8421,Oviedo,Asturias,Spain,Oviedo Industrial Complex
+74,43.3647,-5.8374,Oviedo,Asturias,Spain,University Hospital of Oviedo
+75,43.3712,-5.8478,Oviedo,Asturias,Spain,Asturias Manufacturing Center
+76,43.3659,-5.8549,Oviedo,Asturias,Spain,Oviedo Medical Technologies
+77,43.3561,-5.8476,Oviedo,Asturias,Spain,Asturian Food Industries
+78,43.3629,-5.8431,Oviedo,Asturias,Spain,Oviedo Industrial Park
+79,43.3724,-5.8396,Oviedo,Asturias,Spain,Oviedo Regional Hospital
+80,43.3595,-5.8517,Oviedo,Asturias,Spain,Asturian Pharmaceutical Plant
+81,41.6528,-0.8895,Zaragoza,Aragon,Spain,Hospital Universitario Miguel Servet
+82,41.6489,-0.9012,Zaragoza,Aragon,Spain,Zaragoza Food Industries
+83,41.6413,-0.8834,Zaragoza,Aragon,Spain,Zaragoza Industrial Solutions
+84,41.6578,-0.8967,Zaragoza,Aragon,Spain,University Hospital of Zaragoza
+85,41.6532,-0.9086,Zaragoza,Aragon,Spain,Ebro Valley Food Processing
+86,41.6637,-0.8923,Zaragoza,Aragon,Spain,Zaragoza Manufacturing Complex
+87,41.6483,-0.8768,Zaragoza,Aragon,Spain,Zaragoza Medical Center
+88,41.6398,-0.8953,Zaragoza,Aragon,Spain,Aragon Industrial Park
+89,41.6545,-0.8836,Zaragoza,Aragon,Spain,Zaragoza Regional Hospital
+90,41.6612,-0.9036,Zaragoza,Aragon,Spain,Zaragoza Pharmaceutical Plant
+91,38.3452,-0.4815,Alicante,Valencian Community,Spain,Hospital General Universitario de Alicante
+92,38.3587,-0.4926,Alicante,Valencian Community,Spain,Alicante Food Industries
+93,38.3513,-0.4768,Alicante,Valencian Community,Spain,Alicante Industrial Park
+94,38.3423,-0.4932,Alicante,Valencian Community,Spain,University Hospital of Alicante
+95,38.3579,-0.4832,Alicante,Valencian Community,Spain,Alicante Manufacturing Solutions
+96,38.3469,-0.4863,Alicante,Valencian Community,Spain,Mediterranean Food Processing
+97,38.3534,-0.5014,Alicante,Valencian Community,Spain,Alicante Medical Center
+98,38.3612,-0.4712,Alicante,Valencian Community,Spain,Alicante Industrial Complex
+99,38.3498,-0.4695,Alicante,Valencian Community,Spain,Alicante Regional Hospital
+100,38.3546,-0.4902,Alicante,Valencian Community,Spain,Alicante Pharmaceutical Industries
+101,43.4722,-3.7902,Santander,Cantabria,Spain,Hospital Universitario Marqués de Valdecilla
+102,43.4613,-3.8015,Santander,Cantabria,Spain,Cantabrian Food Processing
+103,43.4835,-3.7967,Santander,Cantabria,Spain,Santander Industrial Park
+104,43.4689,-3.8112,Santander,Cantabria,Spain,University Medical Center of Santander
+105,43.4746,-3.7835,Santander,Cantabria,Spain,Santander Manufacturing Systems
+106,43.4581,-3.7923,Santander,Cantabria,Spain,Santander Regional Hospital
+107,43.4678,-3.7787,Santander,Cantabria,Spain,Cantabrian Food Industries
+108,43.4824,-3.8083,Santander,Cantabria,Spain,Santander Industrial Solutions
+109,43.4705,-3.8046,Santander,Cantabria,Spain,Santander Medical Technologies
+110,43.4657,-3.7875,Santander,Cantabria,Spain,Santander Pharmaceutical Plant
+111,37.9923,-1.1307,Murcia,Region of Murcia,Spain,Hospital Clínico Universitario Virgen de la Arrixaca
+112,38.0047,-1.1416,Murcia,Region of Murcia,Spain,Murcia Food Industries
+113,37.9876,-1.1252,Murcia,Region of Murcia,Spain,Murcia Industrial Park
+114,38.0114,-1.1387,Murcia,Region of Murcia,Spain,University Hospital of Murcia
+115,37.9935,-1.1467,Murcia,Region of Murcia,Spain,Mediterranean Food Processing Complex
+116,38.0072,-1.1284,Murcia,Region of Murcia,Spain,Murcia Medical Center
+117,38.0157,-1.1343,Murcia,Region of Murcia,Spain,Murcia Manufacturing Solutions
+118,37.9892,-1.1395,Murcia,Region of Murcia,Spain,Murcia Regional Hospital
+119,38.0038,-1.1198,Murcia,Region of Murcia,Spain,Murcia Pharmaceutical Industries
+120,37.9943,-1.1528,Murcia,Region of Murcia,Spain,Murcia Industrial Solutions
+121,37.9792,-0.6775,Cartagena,Region of Murcia,Spain,Hospital General Universitario Santa Lucía
+122,37.9861,-0.6834,Cartagena,Region of Murcia,Spain,Cartagena Food Industries
+123,37.9735,-0.6912,Cartagena,Region of Murcia,Spain,Cartagena Industrial Complex
+124,37.9827,-0.6723,Cartagena,Region of Murcia,Spain,University Medical Center of Cartagena
+125,37.9643,-0.6853,Cartagena,Region of Murcia,Spain,Cartagena Manufacturing Plant
+126,37.9894,-0.6785,Cartagena,Region of Murcia,Spain,Cartagena Regional Hospital
+127,37.9815,-0.6942,Cartagena,Region of Murcia,Spain,Mediterranean Food Processing
+128,37.9734,-0.6746,Cartagena,Region of Murcia,Spain,Cartagena Medical Technologies
+129,37.9918,-0.6854,Cartagena,Region of Murcia,Spain,Cartagena Industrial Park
+130,37.9782,-0.6817,Cartagena,Region of Murcia,Spain,Cartagena Pharmaceutical Plant
+131,42.8405,-2.6724,Vitoria-Gasteiz,Basque Country,Spain,Hospital Universitario Araba
+132,42.8367,-2.6813,Vitoria-Gasteiz,Basque Country,Spain,Vitoria Food Industries
+133,42.8458,-2.6752,Vitoria-Gasteiz,Basque Country,Spain,Vitoria Industrial Complex
+134,42.8392,-2.6632,Vitoria-Gasteiz,Basque Country,Spain,University Hospital of Vitoria
+135,42.8534,-2.6742,Vitoria-Gasteiz,Basque Country,Spain,Vitoria Manufacturing Solutions
+136,42.8314,-2.6714,Vitoria-Gasteiz,Basque Country,Spain,Basque Food Processing
+137,42.8426,-2.6645,Vitoria-Gasteiz,Basque Country,Spain,Vitoria Regional Hospital
+138,42.8483,-2.6829,Vitoria-Gasteiz,Basque Country,Spain,Vitoria Medical Center
+139,42.8347,-2.6683,Vitoria-Gasteiz,Basque Country,Spain,Vitoria Industrial Park
+140,42.8435,-2.6796,Vitoria-Gasteiz,Basque Country,Spain,Vitoria Pharmaceutical Industries
+141,43.5293,-5.6773,Gijón,Asturias,Spain,Hospital Universitario de Cabueñes
+142,43.5346,-5.6814,Gijón,Asturias,Spain,Gijón Food Industries
+143,43.5412,-5.6736,Gijón,Asturias,Spain,Gijón Industrial Park
+144,43.5258,-5.6683,Gijón,Asturias,Spain,University Medical Center of Gijón
+145,43.5387,-5.6925,Gijón,Asturias,Spain,Asturian Food Processing
+146,43.5327,-5.6621,Gijón,Asturias,Spain,Gijón Manufacturing Complex
+147,43.5196,-5.6792,Gijón,Asturias,Spain,Gijón Regional Hospital
+148,43.5367,-5.6653,Gijón,Asturias,Spain,Gijón Medical Technologies
+149,43.5283,-5.6872,Gijón,Asturias,Spain,Gijón Industrial Solutions
+150,43.5429,-5.6738,Gijón,Asturias,Spain,Gijón Pharmaceutical Plant
+151,42.2328,-8.7226,Vigo,Galicia,Spain,Hospital Álvaro Cunqueiro
+152,42.2287,-8.7315,Vigo,Galicia,Spain,Vigo Food Industries
+153,42.2413,-8.7168,Vigo,Galicia,Spain,Vigo Industrial Complex
+154,42.2368,-8.7452,Vigo,Galicia,Spain,University Hospital of Vigo
+155,42.2218,-8.7273,Vigo,Galicia,Spain,Galician Food Processing
+156,42.2392,-8.7196,Vigo,Galicia,Spain,Vigo Manufacturing Solutions
+157,42.2251,-8.7122,Vigo,Galicia,Spain,Vigo Regional Hospital
+158,42.2426,-8.7328,Vigo,Galicia,Spain,Vigo Medical Center
+159,42.2315,-8.7381,Vigo,Galicia,Spain,Vigo Industrial Park
+160,42.2371,-8.7234,Vigo,Galicia,Spain,Vigo Pharmaceutical Industries
+161,41.9792,-1.6851,Tudela,Navarre,Spain,Hospital Reina Sofía de Tudela
+162,41.9746,-1.6927,Tudela,Navarre,Spain,Tudela Food Industries
+163,41.9835,-1.6782,Tudela,Navarre,Spain,Tudela Industrial Park
+164,41.9712,-1.6813,Tudela,Navarre,Spain,University Medical Center of Tudela
+165,41.9774,-1.6754,Tudela,Navarre,Spain,Navarre Food Processing
+166,41.9857,-1.6876,Tudela,Navarre,Spain,Tudela Manufacturing Complex
+167,41.9723,-1.6942,Tudela,Navarre,Spain,Tudela Regional Hospital
+168,41.9815,-1.6825,Tudela,Navarre,Spain,Tudela Medical Technologies
+169,41.9764,-1.6898,Tudela,Navarre,Spain,Tudela Industrial Solutions
+170,41.9842,-1.6798,Tudela,Navarre,Spain,Tudela Pharmaceutical Plant
+171,42.6969,-2.1943,Logroño,La Rioja,Spain,Hospital San Pedro
+172,42.7042,-2.1876,Logroño,La Rioja,Spain,Logroño Food Industries
+173,42.6913,-2.1812,Logroño,La Rioja,Spain,Rioja Industrial Park
+174,42.6995,-2.2063,Logroño,La Rioja,Spain,University Hospital of Logroño
+175,42.7078,-2.1965,Logroño,La Rioja,Spain,Rioja Food Processing
+176,42.6924,-2.1987,Logroño,La Rioja,Spain,Logroño Manufacturing Solutions
+177,42.7031,-2.1798,Logroño,La Rioja,Spain,Logroño Regional Hospital
+178,42.6892,-2.2014,Logroño,La Rioja,Spain,Logroño Medical Center
+179,42.7015,-2.1923,Logroño,La Rioja,Spain,Logroño Industrial Complex
+180,42.6957,-2.1854,Logroño,La Rioja,Spain,Logroño Pharmaceutical Industries
+181,39.9904,-0.0497,Castellón de la Plana,Valencian Community,Spain,Hospital General Universitario de Castellón
+182,39.9971,-0.0531,Castellón de la Plana,Valencian Community,Spain,Castellón Food Industries
+183,39.9856,-0.0622,Castellón de la Plana,Valencian Community,Spain,Castellón Industrial Complex
+184,40.0037,-0.0428,Castellón de la Plana,Valencian Community,Spain,University Medical Center of Castellón
+185,39.9923,-0.0392,Castellón de la Plana,Valencian Community,Spain,Castellón Manufacturing Plant
+186,39.9829,-0.0462,Castellón de la Plana,Valencian Community,Spain,Castellón Regional Hospital
+187,40.0014,-0.0587,Castellón de la Plana,Valencian Community,Spain,Mediterranean Food Processing
+188,39.9864,-0.0518,Castellón de la Plana,Valencian Community,Spain,Castellón Medical Technologies
+189,39.9952,-0.0468,Castellón de la Plana,Valencian Community,Spain,Castellón Industrial Park
+190,39.9889,-0.0542,Castellón de la Plana,Valencian Community,Spain,Castellón Pharmaceutical Plant
+191,38.9957,-1.8582,Albacete,Castilla-La Mancha,Spain,Hospital Universitario de Albacete
+192,39.0013,-1.8647,Albacete,Castilla-La Mancha,Spain,Albacete Food Industries
+193,38.9892,-1.8516,Albacete,Castilla-La Mancha,Spain,Albacete Industrial Park
+194,39.0045,-1.8524,Albacete,Castilla-La Mancha,Spain,University Medical Center of Albacete
+195,38.9923,-1.8732,Albacete,Castilla-La Mancha,Spain,Albacete Manufacturing Solutions
+196,39.0078,-1.8592,Albacete,Castilla-La Mancha,Spain,Albacete Regional Hospital
+197,38.9846,-1.8637,Albacete,Castilla-La Mancha,Spain,La Mancha Food Processing
+198,39.0032,-1.8486,Albacete,Castilla-La Mancha,Spain,Albacete Medical Center
+199,38.9915,-1.8595,Albacete,Castilla-La Mancha,Spain,Albacete Industrial Complex
+200,39.0063,-1.8714,Albacete,Castilla-La Mancha,Spain,Albacete Pharmaceutical Industries
+201,50.0755,14.4378,Prague,Prague,Czech Republic,Hospital of Prague
+202,50.0822,14.4509,Prague,Prague,Czech Republic,Prague Food Industries
+203,50.0683,14.4236,Prague,Prague,Czech Republic,Prague Industrial Solutions
+204,50.0614,14.4472,Prague,Prague,Czech Republic,University Hospital of Prague
+205,50.0887,14.4214,Prague,Prague,Czech Republic,Prague Medical Center
+206,50.0735,14.4653,Prague,Prague,Czech Republic,Czech Food Processing
+207,50.0921,14.4358,Prague,Prague,Czech Republic,Prague Manufacturing Complex
+208,50.0793,14.4191,Prague,Prague,Czech Republic,Prague Children's Hospital
+209,50.0648,14.4582,Prague,Prague,Czech Republic,Prague Industrial Park
+210,50.0861,14.4526,Prague,Prague,Czech Republic,Prague Pharmaceutical Plant
+211,49.8175,18.2625,Ostrava,Moravian-Silesian,Czech Republic,University Hospital Ostrava
+212,49.8243,18.2713,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Steel Works
+213,49.8107,18.2542,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Food Industries
+214,49.8293,18.2479,Ostrava,Moravian-Silesian,Czech Republic,Moravian-Silesian Medical Center
+215,49.8147,18.2814,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Manufacturing Solutions
+216,49.8217,18.2391,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Regional Hospital
+217,49.8084,18.2683,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Industrial Complex
+218,49.8276,18.2736,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Food Processing
+219,49.8193,18.2459,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Medical Technologies
+220,49.8129,18.2572,Ostrava,Moravian-Silesian,Czech Republic,Ostrava Pharmaceutical Industries
+221,49.1951,16.6068,Brno,South Moravian,Czech Republic,University Hospital Brno
+222,49.2017,16.6154,Brno,South Moravian,Czech Republic,Brno Food Industries
+223,49.1892,16.5979,Brno,South Moravian,Czech Republic,Brno Industrial Park
+224,49.2073,16.5923,Brno,South Moravian,Czech Republic,Brno Medical Center
+225,49.1933,16.6235,Brno,South Moravian,Czech Republic,Moravian Manufacturing Complex
+226,49.2048,16.6031,Brno,South Moravian,Czech Republic,Brno Regional Hospital
+227,49.1876,16.6127,Brno,South Moravian,Czech Republic,Brno Food Processing
+228,49.2101,16.6089,Brno,South Moravian,Czech Republic,Brno Medical Technologies
+229,49.1924,16.5876,Brno,South Moravian,Czech Republic,Brno Industrial Solutions
+230,49.1987,16.6197,Brno,South Moravian,Czech Republic,Brno Pharmaceutical Plant
+231,50.6607,14.0328,Ústí nad Labem,Ústí nad Labem,Czech Republic,Masaryk Hospital Ústí nad Labem
+232,50.6673,14.0412,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Chemical Works
+233,50.6539,14.0276,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Food Industries
+234,50.6724,14.0198,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Regional Hospital
+235,50.6584,14.0493,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Manufacturing Solutions
+236,50.6647,14.0376,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Industrial Complex
+237,50.6692,14.0257,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Medical Center
+238,50.6526,14.0358,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Food Processing
+239,50.6631,14.0467,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Pharmaceutical Industries
+240,50.6568,14.0288,Ústí nad Labem,Ústí nad Labem,Czech Republic,Ústí Industrial Park
+241,50.7654,15.0543,Liberec,Liberec,Czech Republic,Liberec Regional Hospital
+242,50.7582,15.0628,Liberec,Liberec,Czech Republic,Liberec Food Industries
+243,50.7709,15.0491,Liberec,Liberec,Czech Republic,Liberec Industrial Park
+244,50.7637,15.0413,Liberec,Liberec,Czech Republic,Technical University Hospital Liberec
+245,50.7724,15.0597,Liberec,Liberec,Czech Republic,Liberec Manufacturing Complex
+246,50.7563,15.0552,Liberec,Liberec,Czech Republic,Liberec Medical Center
+247,50.7651,15.0684,Liberec,Liberec,Czech Republic,Czech Food Processing Liberec
+248,50.7694,15.0463,Liberec,Liberec,Czech Republic,Liberec Medical Technologies
+249,50.7618,15.0526,Liberec,Liberec,Czech Republic,Liberec Industrial Solutions
+250,50.7547,15.0489,Liberec,Liberec,Czech Republic,Liberec Pharmaceutical Plant
+251,49.7384,13.3736,Pilsen,Pilsen,Czech Republic,University Hospital Pilsen
+252,49.7457,13.3826,Pilsen,Pilsen,Czech Republic,Pilsen Industrial Complex
+253,49.7326,13.3691,Pilsen,Pilsen,Czech Republic,Pilsen Food Industries
+254,49.7412,13.3617,Pilsen,Pilsen,Czech Republic,Pilsen Regional Hospital
+255,49.7489,13.3748,Pilsen,Pilsen,Czech Republic,Pilsen Manufacturing Solutions
+256,49.7364,13.3876,Pilsen,Pilsen,Czech Republic,Pilsen Medical Center
+257,49.7429,13.3954,Pilsen,Pilsen,Czech Republic,Pilsner Food Processing
+258,49.7516,13.3672,Pilsen,Pilsen,Czech Republic,Pilsen Medical Technologies
+259,49.7341,13.3784,Pilsen,Pilsen,Czech Republic,Pilsen Industrial Park
+260,49.7392,13.3716,Pilsen,Pilsen,Czech Republic,Pilsen Pharmaceutical Industries
+261,50.2103,15.8251,Hradec Králové,Hradec Králové,Czech Republic,University Hospital Hradec Králové
+262,50.2168,15.8327,Hradec Králové,Hradec Králové,Czech Republic,Hradec Food Industries
+263,50.2041,15.8193,Hradec Králové,Hradec Králové,Czech Republic,Hradec Industrial Park
+264,50.2214,15.8147,Hradec Králové,Hradec Králové,Czech Republic,Hradec Regional Hospital
+265,50.2079,15.8396,Hradec Králové,Hradec Králové,Czech Republic,Hradec Manufacturing Solutions
+266,50.2139,15.8198,Hradec Králové,Hradec Králové,Czech Republic,Hradec Medical Center
+267,50.2056,15.8276,Hradec Králové,Hradec Králové,Czech Republic,Czech Food Processing Hradec
+268,50.2187,15.8242,Hradec Králové,Hradec Králové,Czech Republic,Hradec Medical Technologies
+269,50.2097,15.8305,Hradec Králové,Hradec Králové,Czech Republic,Hradec Industrial Solutions
+270,50.2152,15.8156,Hradec Králové,Hradec Králové,Czech Republic,Hradec Pharmaceutical Plant
+271,49.4093,15.5876,Jihlava,Vysočina,Czech Republic,Jihlava Regional Hospital
+272,49.4156,15.5942,Jihlava,Vysočina,Czech Republic,Jihlava Food Industries
+273,49.4031,15.5813,Jihlava,Vysočina,Czech Republic,Jihlava Industrial Park
+274,49.4117,15.5789,Jihlava,Vysočina,Czech Republic,Vysočina Medical Center
+275,49.4072,15.6021,Jihlava,Vysočina,Czech Republic,Jihlava Manufacturing Complex
+276,49.4187,15.5872,Jihlava,Vysočina,Czech Republic,Jihlava Hospital Center
+277,49.4045,15.5938,Jihlava,Vysočina,Czech Republic,Jihlava Food Processing
+278,49.4129,15.5841,Jihlava,Vysočina,Czech Republic,Jihlava Medical Technologies
+279,49.4063,15.5903,Jihlava,Vysočina,Czech Republic,Jihlava Industrial Solutions
+280,49.4175,15.6007,Jihlava,Vysočina,Czech Republic,Jihlava Pharmaceutical Plant
+281,50.3673,14.4748,Mělník,Central Bohemian,Czech Republic,Mělník Regional Hospital
+282,50.3738,14.4813,Mělník,Central Bohemian,Czech Republic,Mělník Food Industries
+283,50.3612,14.4683,Mělník,Central Bohemian,Czech Republic,Mělník Industrial Park
+284,50.3695,14.4597,Mělník,Central Bohemian,Czech Republic,Central Bohemian Medical Center
+285,50.3582,14.4779,Mělník,Central Bohemian,Czech Republic,Mělník Manufacturing Solutions
+286,50.3726,14.4662,Mělník,Central Bohemian,Czech Republic,Mělník Hospital Center
+287,50.3634,14.4826,Mělník,Central Bohemian,Czech Republic,Czech Food Processing Mělník
+288,50.3769,14.4734,Mělník,Central Bohemian,Czech Republic,Mělník Medical Technologies
+289,50.3657,14.4713,Mělník,Central Bohemian,Czech Republic,Mělník Industrial Solutions
+290,50.3704,14.4867,Mělník,Central Bohemian,Czech Republic,Mělník Pharmaceutical Plant
+291,49.3006,17.3936,Kroměříž,Zlín,Czech Republic,Kroměříž Regional Hospital
+292,49.3068,17.4007,Kroměříž,Zlín,Czech Republic,Kroměříž Food Industries
+293,49.2943,17.3879,Kroměříž,Zlín,Czech Republic,Kroměříž Industrial Park
+294,49.3037,17.3802,Kroměříž,Zlín,Czech Republic,Zlín Medical Center Kroměříž
+295,49.3089,17.3921,Kroměříž,Zlín,Czech Republic,Kroměříž Manufacturing Complex
+296,49.2974,17.4042,Kroměříž,Zlín,Czech Republic,Kroměříž Hospital Center
+297,49.3047,17.3967,Kroměříž,Zlín,Czech Republic,Moravian Food Processing
+298,49.3113,17.3885,Kroměříž,Zlín,Czech Republic,Kroměříž Medical Technologies
+299,49.2986,17.3924,Kroměříž,Zlín,Czech Republic,Kroměříž Industrial Solutions
+300,49.3056,17.4078,Kroměříž,Zlín,Czech Republic,Kroměříž Pharmaceutical Plant
+301,21.4858,39.1925,Jeddah,Makkah,Saudi Arabia,King Fahd Hospital of Jeddah
+302,21.4919,39.1836,Jeddah,Makkah,Saudi Arabia,Jeddah Foods
+303,21.4791,39.2017,Jeddah,Makkah,Saudi Arabia,Jeddah Industrial City
+304,21.5042,39.1946,Jeddah,Makkah,Saudi Arabia,King Abdulaziz University Hospital
+305,21.4872,39.1752,Jeddah,Makkah,Saudi Arabia,Jeddah Manufacturing Solutions
+306,21.4957,39.2087,Jeddah,Makkah,Saudi Arabia,Jeddah Regional Medical Center
+307,21.4734,39.1897,Jeddah,Makkah,Saudi Arabia,Red Sea Food Processing
+308,21.5016,39.1835,Jeddah,Makkah,Saudi Arabia,Jeddah Medical Technologies
+309,21.4815,39.2053,Jeddah,Makkah,Saudi Arabia,Jeddah Industrial Complex
+310,21.4927,39.1976,Jeddah,Makkah,Saudi Arabia,Jeddah Pharmaceutical Industries
+311,24.7136,46.6753,Riyadh,Riyadh,Saudi Arabia,King Fahad Medical City
+312,24.7218,46.6834,Riyadh,Riyadh,Saudi Arabia,Riyadh Food Industries
+313,24.7056,46.6627,Riyadh,Riyadh,Saudi Arabia,Riyadh Industrial City
+314,24.7312,46.6719,Riyadh,Riyadh,Saudi Arabia,King Saud University Medical City
+315,24.7129,46.6946,Riyadh,Riyadh,Saudi Arabia,Riyadh Manufacturing Complex
+316,24.7248,46.6578,Riyadh,Riyadh,Saudi Arabia,Saudi German Hospital Riyadh
+317,24.6985,46.6826,Riyadh,Riyadh,Saudi Arabia,Central Saudi Food Processing
+318,24.7175,46.7012,Riyadh,Riyadh,Saudi Arabia,Riyadh Medical Technologies
+319,24.7356,46.6879,Riyadh,Riyadh,Saudi Arabia,Riyadh Industrial Solutions
+320,24.7092,46.6742,Riyadh,Riyadh,Saudi Arabia,Riyadh Pharmaceutical Plant
+321,26.3926,50.1096,Dammam,Eastern Province,Saudi Arabia,King Fahd Specialist Hospital
+322,26.4017,50.1175,Dammam,Eastern Province,Saudi Arabia,Dammam Food Industries
+323,26.3867,50.0984,Dammam,Eastern Province,Saudi Arabia,Dammam Industrial City
+324,26.4078,50.1023,Dammam,Eastern Province,Saudi Arabia,Dammam Medical Center
+325,26.3796,50.1153,Dammam,Eastern Province,Saudi Arabia,Eastern Province Manufacturing
+326,26.3952,50.1237,Dammam,Eastern Province,Saudi Arabia,Dammam Central Hospital
+327,26.4123,50.1082,Dammam,Eastern Province,Saudi Arabia,Arabian Gulf Food Processing
+328,26.3835,50.1186,Dammam,Eastern Province,Saudi Arabia,Dammam Medical Technologies
+329,26.4048,50.0936,Dammam,Eastern Province,Saudi Arabia,Dammam Industrial Complex
+330,26.3893,50.1127,Dammam,Eastern Province,Saudi Arabia,Dammam Pharmaceutical Industries
+331,21.2714,40.4192,Taif,Makkah,Saudi Arabia,King Abdulaziz Specialist Hospital
+332,21.2798,40.4254,Taif,Makkah,Saudi Arabia,Taif Food Industries
+333,21.2632,40.4127,Taif,Makkah,Saudi Arabia,Taif Industrial City
+334,21.2857,40.4076,Taif,Makkah,Saudi Arabia,Taif University Hospital
+335,21.2679,40.4313,Taif,Makkah,Saudi Arabia,Taif Manufacturing Solutions
+336,21.2823,40.4183,Taif,Makkah,Saudi Arabia,Taif Medical Center
+337,21.2745,40.4029,Taif,Makkah,Saudi Arabia,Western Region Food Processing
+338,21.2574,40.4237,Taif,Makkah,Saudi Arabia,Taif Medical Technologies
+339,21.2893,40.4276,Taif,Makkah,Saudi Arabia,Taif Industrial Complex
+340,21.2713,40.4162,Taif,Makkah,Saudi Arabia,Taif Pharmaceutical Plant
+341,28.3835,36.5662,Tabuk,Tabuk,Saudi Arabia,King Fahd Hospital Tabuk
+342,28.3917,36.5724,Tabuk,Tabuk,Saudi Arabia,Tabuk Food Industries
+343,28.3756,36.5598,Tabuk,Tabuk,Saudi Arabia,Tabuk Industrial City
+344,28.3982,36.5645,Tabuk,Tabuk,Saudi Arabia,University Hospital of Tabuk
+345,28.3843,36.5794,Tabuk,Tabuk,Saudi Arabia,Tabuk Manufacturing Complex
+346,28.3869,36.5532,Tabuk,Tabuk,Saudi Arabia,Tabuk Medical Center
+347,28.3795,36.5714,Tabuk,Tabuk,Saudi Arabia,Northern Region Food Processing
+348,28.4037,36.5683,Tabuk,Tabuk,Saudi Arabia,Tabuk Medical Technologies
+349,28.3725,36.5652,Tabuk,Tabuk,Saudi Arabia,Tabuk Industrial Solutions
+350,28.3891,36.5763,Tabuk,Tabuk,Saudi Arabia,Tabuk Pharmaceutical Industries
+351,18.2164,42.5053,Abha,Asir,Saudi Arabia,Asir Central Hospital
+352,18.2246,42.5118,Abha,Asir,Saudi Arabia,Abha Food Industries
+353,18.2093,42.4978,Abha,Asir,Saudi Arabia,Abha Industrial Park
+354,18.2312,42.5024,Abha,Asir,Saudi Arabia,King Khalid University Hospital
+355,18.2135,42.5182,Abha,Asir,Saudi Arabia,Abha Manufacturing Solutions
+356,18.2278,42.4936,Abha,Asir,Saudi Arabia,Abha Medical Center
+357,18.2054,42.5087,Abha,Asir,Saudi Arabia,Southern Region Food Processing
+358,18.2213,42.5246,Abha,Asir,Saudi Arabia,Abha Medical Technologies
+359,18.2196,42.4896,Abha,Asir,Saudi Arabia,Abha Industrial Complex
+360,18.2142,42.5021,Abha,Asir,Saudi Arabia,Abha Pharmaceutical Plant
+361,25.3526,49.5237,Hofuf,Eastern Province,Saudi Arabia,King Fahd Hospital Hofuf
+362,25.3607,49.5313,Hofuf,Eastern Province,Saudi Arabia,Hofuf Food Industries
+363,25.3451,49.5176,Hofuf,Eastern Province,Saudi Arabia,Hofuf Industrial City
+364,25.3673,49.5129,Hofuf,Eastern Province,Saudi Arabia,Al-Ahsa Medical Center
+365,25.3487,49.5384,Hofuf,Eastern Province,Saudi Arabia,Hofuf Manufacturing Complex
+366,25.3582,49.5057,Hofuf,Eastern Province,Saudi Arabia,Eastern Region Hospital Hofuf
+367,25.3519,49.5289,Hofuf,Eastern Province,Saudi Arabia,Al-Ahsa Food Processing
+368,25.3648,49.5349,Hofuf,Eastern Province,Saudi Arabia,Hofuf Medical Technologies
+369,25.3429,49.5237,Hofuf,Eastern Province,Saudi Arabia,Hofuf Industrial Solutions
+370,25.3557,49.5182,Hofuf,Eastern Province,Saudi Arabia,Hofuf Pharmaceutical Industries
+371,27.5253,41.6842,Hail,Hail,Saudi Arabia,King Khalid Hospital Hail
+372,27.5334,41.6913,Hail,Hail,Saudi Arabia,Hail Food Industries
+373,27.5183,41.6773,Hail,Hail,Saudi Arabia,Hail Industrial City
+374,27.5397,41.6824,Hail,Hail,Saudi Arabia,University Hospital of Hail
+375,27.5274,41.6978,Hail,Hail,Saudi Arabia,Hail Manufacturing Solutions
+376,27.5216,41.6734,Hail,Hail,Saudi Arabia,Hail Medical Center
+377,27.5312,41.6867,Hail,Hail,Saudi Arabia,Central Region Food Processing
+378,27.5152,41.6896,Hail,Hail,Saudi Arabia,Hail Medical Technologies
+379,27.5363,41.6784,Hail,Hail,Saudi Arabia,Hail Industrial Complex
+380,27.5245,41.6937,Hail,Hail,Saudi Arabia,Hail Pharmaceutical Plant
+381,30.0971,40.9766,Sakaka,Al-Jawf,Saudi Arabia,Al-Jawf Regional Hospital
+382,30.1046,40.9834,Sakaka,Al-Jawf,Saudi Arabia,Sakaka Food Industries
+383,30.0895,40.9691,Sakaka,Al-Jawf,Saudi Arabia,Sakaka Industrial City
+384,30.1098,40.9753,Sakaka,Al-Jawf,Saudi Arabia,Northern Medical Center Sakaka
+385,30.0938,40.9875,Sakaka,Al-Jawf,Saudi Arabia,Sakaka Manufacturing Complex
+386,30.1021,40.9679,Sakaka,Al-Jawf,Saudi Arabia,Sakaka Hospital Center
+387,30.0863,40.9819,Sakaka,Al-Jawf,Saudi Arabia,Al-Jawf Food Processing
+388,30.1073,40.9927,Sakaka,Al-Jawf,Saudi Arabia,Sakaka Medical Technologies
+389,30.0914,40.9734,Sakaka,Al-Jawf,Saudi Arabia,Sakaka Industrial Solutions
+390,30.1004,40.9847,Sakaka,Al-Jawf,Saudi Arabia,Sakaka Pharmaceutical Industries
+391,24.0889,38.0487,Medina,Medina,Saudi Arabia,King Fahd Hospital Medina
+392,24.0963,38.0556,Medina,Medina,Saudi Arabia,Medina Food Industries
+393,24.0817,38.0423,Medina,Medina,Saudi Arabia,Medina Industrial City
+394,24.1024,38.0498,Medina,Medina,Saudi Arabia,Islamic University Hospital
+395,24.0875,38.0629,Medina,Medina,Saudi Arabia,Medina Manufacturing Solutions
+396,24.0942,38.0378,Medina,Medina,Saudi Arabia,Medina Medical Center
+397,24.0794,38.0542,Medina,Medina,Saudi Arabia,Western Saudi Food Processing
+398,24.1057,38.0461,Medina,Medina,Saudi Arabia,Medina Medical Technologies
+399,24.0853,38.0407,Medina,Medina,Saudi Arabia,Medina Industrial Complex
+400,24.0928,38.0516,Medina,Medina,Saudi Arabia,Medina Pharmaceutical Plant

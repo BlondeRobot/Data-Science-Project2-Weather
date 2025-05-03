@@ -1,0 +1,8 @@
+component_id,manufacturer,category,type,risk_type
+1001,Advanced Sensors,sensor,monopiece,none
+1002,Modular Sensors,sensor,modular,moisture ingress
+2001,Wire Inc,cable,non UV protected cable,UV exposure
+2002,Protected Cables,cable,none
+3001,Future Batteries LLC,battery,Lithium Ion,high temperature
+3002,Batt Inc,battery,Sealed Lead Acid,low temperature
+3003,Energy Supplies,Power Supply Unit,external,none
