@@ -1,4 +1,4 @@
-component_id,manufacturer,category,type,risk_type
+component_id,manufacturer,category,device_type,risk_type
 1001,Advanced Sensors,sensor,monopiece,none
 1002,Modular Sensors,sensor,modular,moisture ingress
 2001,Wire Inc,cable,non UV protected cable,UV exposure

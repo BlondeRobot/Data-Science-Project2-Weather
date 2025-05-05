@@ -1,4 +1,4 @@
-location_id,lat,long,city,region,country,customer
+location_id,latitude,longitude,city,region,country,customer
 1,41.3851,2.1734,Barcelona,Catalonia,Spain,Hospital Clinic de Barcelona
 2,41.3921,2.1643,Barcelona,Catalonia,Spain,Barcelona Food Processing
 3,41.4036,2.1744,Barcelona,Catalonia,Spain,Catalonia Industrial Systems
