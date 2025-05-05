@@ -1,0 +1,401 @@
+customer_id,customer_name,location_id,safety_risk,difficult_access
+10001,Hospital Clinic de Barcelona,1,2,0
+10002,Barcelona Food Processing,2,1,0
+10003,Catalonia Industrial Systems,3,0,0
+10004,University Hospital of Barcelona,4,2,0
+10005,Barcelona Medical Devices,5,0,0
+10006,Catalonia Pharmaceutical Plant,6,1,0
+10007,Barcelona Biotech Research,7,1,0
+10008,Mediterranean Food Industries,8,2,0
+10009,Barcelona Regional Hospital,9,2,0
+10010,Catalonia Advanced Manufacturing,10,1,0
+10011,Hospital La Paz Madrid,11,2,0
+10012,Madrid Food Distributors,12,1,0
+10013,University of Madrid,13,0,0
+10014,Madrid Industrial Complex,14,0,0
+10015,Madrid Pharmaceutical Industries,15,1,0
+10016,Madrid Children's Hospital,16,2,0
+10017,Iberian Food Processing Plant,17,1,0
+10018,Madrid Medical Systems,18,0,0
+10019,Madrid Central Hospital,19,1,0
+10020,Madrid Technology Park,20,0,0
+10021,Valencia General Hospital,21,2,0
+10022,Valencia Food Corporation,22,1,0
+10023,Valencia Industrial Supplies,23,2,0
+10024,University of Valencia Medical Center,24,2,0
+10025,Valencia Chemical Processing,25,0,0
+10026,Valencia Manufacturing Center,26,0,0
+10027,Valencia Regional Hospital,27,2,0
+10028,Mediterranean Fruit Processors,28,1,0
+10029,Valencia Industrial Park,29,1,0
+10030,Valencia Medical Supplies,30,0,0
+10031,Hospital Universitario Virgen del Rocío,31,2,0
+10032,Andalusian Food Producers,32,0,0
+10033,Seville Industrial Machinery,33,0,0
+10034,University of Seville Hospital,34,0,0
+10035,Seville Manufacturing Complex,35,1,0
+10036,Seville Medical Research Center,36,0,0
+10037,Andalusian Food Processing,37,0,0
+10038,Seville Regional Hospital,38,0,0
+10039,Seville Industrial Technology,39,0,0
+10040,Seville Pharmaceutical Industries,40,0,0
+10041,Hospital de Basurto,41,0,0
+10042,Bilbao Steel Industries,42,0,0
+10043,Basque Food Producers,43,2,0
+10044,University Medical Center of Bilbao,44,0,0
+10045,Bilbao Industrial Solutions,45,0,0
+10046,Bilbao Regional Hospital,46,0,0
+10047,Basque Manufacturing Systems,47,0,0
+10048,Bilbao Technology Park,48,0,0
+10049,Bilbao Food Processing Plant,49,0,0
+10050,Bilbao Medical Devices,50,2,0
+10051,Hospital Regional de Málaga,51,0,0
+10052,Málaga Food Industries,52,0,0
+10053,Andalusian Technology Park,53,0,0
+10054,University Hospital of Málaga,54,0,0
+10055,Málaga Industrial Complex,55,0,0
+10056,Málaga Medical Center,56,1,0
+10057,Costa del Sol Food Processing,57,0,0
+10058,Málaga Manufacturing Solutions,58,0,0
+10059,Málaga Regional Hospital,59,0,0
+10060,Málaga Pharmaceutical Plant,60,0,0
+10061,Hospital Universitario San Cecilio,61,0,0
+10062,Granada Food Producers,62,0,0
+10063,Granada Industrial Park,63,0,0
+10064,University Medical Center of Granada,64,0,0
+10065,Granada Manufacturing Systems,65,1,0
+10066,Granada Regional Hospital,66,0,0
+10067,Andalusian Processing Plant,67,0,0
+10068,Granada Biotech Research,68,0,0
+10069,Granada Medical Technologies,69,0,0
+10070,Granada Industrial Solutions,70,0,0
+10071,Hospital Universitario Central de Asturias,71,0,0
+10072,Asturian Food Processing,72,1,0
+10073,Oviedo Industrial Complex,73,2,0
+10074,University Hospital of Oviedo,74,0,0
+10075,Asturias Manufacturing Center,75,0,0
+10076,Oviedo Medical Technologies,76,0,0
+10077,Asturian Food Industries,77,0,0
+10078,Oviedo Industrial Park,78,0,0
+10079,Oviedo Regional Hospital,79,0,0
+10080,Asturian Pharmaceutical Plant,80,0,0
+10081,Hospital Universitario Miguel Servet,81,0,0
+10082,Zaragoza Food Industries,82,0,0
+10083,Zaragoza Industrial Solutions,83,0,0
+10084,University Hospital of Zaragoza,84,0,1
+10085,Ebro Valley Food Processing,85,0,0
+10086,Zaragoza Manufacturing Complex,86,0,0
+10087,Zaragoza Medical Center,87,1,0
+10088,Aragon Industrial Park,88,0,0
+10089,Zaragoza Regional Hospital,89,0,0
+10090,Zaragoza Pharmaceutical Plant,90,0,0
+10091,Hospital General Universitario de Alicante,91,0,0
+10092,Alicante Food Industries,92,0,0
+10093,Alicante Industrial Park,93,2,0
+10094,University Hospital of Alicante,94,0,0
+10095,Alicante Manufacturing Solutions,95,0,0
+10096,Mediterranean Food Processing,96,0,0
+10097,Alicante Medical Center,97,0,0
+10098,Alicante Industrial Complex,98,0,0
+10099,Alicante Regional Hospital,99,0,0
+10100,Alicante Pharmaceutical Industries,100,1,0
+10101,Hospital Universitario Marqués de Valdecilla,101,0,0
+10102,Cantabrian Food Processing,102,0,0
+10103,Santander Industrial Park,103,0,0
+10104,University Medical Center of Santander,104,0,0
+10105,Santander Manufacturing Systems,105,0,0
+10106,Santander Regional Hospital,106,0,0
+10107,Cantabrian Food Industries,107,2,0
+10108,Santander Industrial Solutions,108,0,0
+10109,Santander Medical Technologies,109,0,0
+10110,Santander Pharmaceutical Plant,110,0,0
+10111,Hospital Clínico Universitario Virgen de la Arrixaca,111,0,0
+10112,Murcia Food Industries,112,0,0
+10113,Murcia Industrial Park,113,0,0
+10114,University Hospital of Murcia,114,0,0
+10115,Mediterranean Food Processing Complex,115,1,0
+10116,Murcia Medical Center,116,0,0
+10117,Murcia Manufacturing Solutions,117,0,0
+10118,Murcia Regional Hospital,118,0,0
+10119,Murcia Pharmaceutical Industries,119,2,0
+10120,Murcia Industrial Solutions,120,0,0
+10121,Hospital General Universitario Santa Lucía,121,0,0
+10122,Cartagena Food Industries,122,0,0
+10123,Cartagena Industrial Complex,123,0,0
+10124,University Medical Center of Cartagena,124,0,0
+10125,Cartagena Manufacturing Plant,125,0,0
+10126,Cartagena Regional Hospital,126,0,0
+10127,Mediterranean Food Processing,127,0,0
+10128,Cartagena Medical Technologies,128,1,0
+10129,Cartagena Industrial Park,129,0,0
+10130,Cartagena Pharmaceutical Plant,130,0,0
+10131,Hospital Universitario Araba,131,0,0
+10132,Vitoria Food Industries,132,2,0
+10133,Vitoria Industrial Complex,133,0,0
+10134,University Hospital of Vitoria,134,0,0
+10135,Vitoria Manufacturing Solutions,135,0,0
+10136,Basque Food Processing,136,0,0
+10137,Vitoria Regional Hospital,137,0,0
+10138,Vitoria Medical Center,138,0,0
+10139,Vitoria Industrial Park,139,0,0
+10140,Vitoria Pharmaceutical Industries,140,0,0
+10141,Hospital Universitario de Cabueñes,141,0,0
+10142,Gijón Food Industries,142,0,0
+10143,Gijón Industrial Park,143,1,0
+10144,University Medical Center of Gijón,144,0,0
+10145,Asturian Food Processing,145,0,0
+10146,Gijón Manufacturing Complex,146,0,0
+10147,Gijón Regional Hospital,147,0,0
+10148,Gijón Medical Technologies,148,0,0
+10149,Gijón Industrial Solutions,149,0,0
+10150,Gijón Pharmaceutical Plant,150,0,0
+10151,Hospital Álvaro Cunqueiro,151,0,0
+10152,Vigo Food Industries,152,0,0
+10153,Vigo Industrial Complex,153,0,0
+10154,University Hospital of Vigo,154,0,0
+10155,Galician Food Processing,155,1,0
+10156,Vigo Manufacturing Solutions,156,0,0
+10157,Vigo Regional Hospital,157,0,0
+10158,Vigo Medical Center,158,0,0
+10159,Vigo Industrial Park,159,0,0
+10160,Vigo Pharmaceutical Industries,160,0,0
+10161,Hospital Reina Sofía de Tudela,161,2,0
+10162,Tudela Food Industries,162,0,0
+10163,Tudela Industrial Park,163,0,0
+10164,University Medical Center of Tudela,164,0,0
+10165,Navarre Food Processing,165,0,0
+10166,Tudela Manufacturing Complex,166,0,0
+10167,Tudela Regional Hospital,167,0,0
+10168,Tudela Medical Technologies,168,0,0
+10169,Tudela Industrial Solutions,169,0,0
+10170,Tudela Pharmaceutical Plant,170,0,0
+10171,Hospital San Pedro,171,0,0
+10172,Logroño Food Industries,172,0,0
+10173,Rioja Industrial Park,173,0,0
+10174,University Hospital of Logroño,174,0,0
+10175,Rioja Food Processing,175,0,0
+10176,Logroño Manufacturing Solutions,176,1,0
+10177,Logroño Regional Hospital,177,0,0
+10178,Logroño Medical Center,178,0,0
+10179,Logroño Industrial Complex,179,0,0
+10180,Logroño Pharmaceutical Industries,180,0,0
+10181,Hospital General Universitario de Castellón,181,0,0
+10182,Castellón Food Industries,182,0,0
+10183,Castellón Industrial Complex,183,0,0
+10184,University Medical Center of Castellón,184,0,0
+10185,Castellón Manufacturing Plant,185,0,0
+10186,Castellón Regional Hospital,186,0,0
+10187,Mediterranean Food Processing,187,0,0
+10188,Castellón Medical Technologies,188,1,0
+10189,Castellón Industrial Park,189,0,0
+10190,Castellón Pharmaceutical Plant,190,0,0
+10191,Hospital Universitario de Albacete,191,0,0
+10192,Albacete Food Industries,192,0,0
+10193,Albacete Industrial Park,193,0,0
+10194,University Medical Center of Albacete,194,0,0
+10195,Albacete Manufacturing Solutions,195,0,0
+10196,Albacete Regional Hospital,196,0,0
+10197,La Mancha Food Processing,197,0,0
+10198,Albacete Medical Center,198,0,0
+10199,Albacete Industrial Complex,199,2,0
+10200,Albacete Pharmaceutical Industries,200,0,0
+10201,Hospital of Prague,201,0,0
+10202,Prague Food Industries,202,0,0
+10203,Prague Industrial Solutions,203,0,0
+10204,University Hospital of Prague,204,0,0
+10205,Prague Medical Center,205,0,0
+10206,Czech Food Processing,206,0,0
+10207,Prague Manufacturing Complex,207,0,0
+10208,Prague Children's Hospital,208,0,0
+10209,Prague Industrial Park,209,0,0
+10210,Prague Pharmaceutical Plant,210,1,0
+10211,University Hospital Ostrava,211,0,0
+10212,Ostrava Steel Works,212,0,0
+10213,Ostrava Food Industries,213,0,0
+10214,Moravian-Silesian Medical Center,214,0,0
+10215,Ostrava Manufacturing Solutions,215,0,0
+10216,Ostrava Regional Hospital,216,0,0
+10217,Ostrava Industrial Complex,217,0,0
+10218,Ostrava Food Processing,218,0,0
+10219,Ostrava Medical Technologies,219,0,0
+10220,Ostrava Pharmaceutical Industries,220,0,0
+10221,University Hospital Brno,221,0,0
+10222,Brno Food Industries,222,0,0
+10223,Brno Industrial Park,223,0,0
+10224,Brno Medical Center,224,0,0
+10225,Moravian Manufacturing Complex,225,0,0
+10226,Brno Regional Hospital,226,0,0
+10227,Brno Food Processing,227,0,0
+10228,Brno Medical Technologies,228,0,0
+10229,Brno Industrial Solutions,229,0,0
+10230,Brno Pharmaceutical Plant,230,0,0
+10231,Masaryk Hospital Ústí nad Labem,231,0,0
+10232,Ústí Chemical Works,232,0,0
+10233,Ústí Food Industries,233,0,0
+10234,Ústí Regional Hospital,234,0,0
+10235,Ústí Manufacturing Solutions,235,0,0
+10236,Ústí Industrial Complex,236,0,1
+10237,Ústí Medical Center,237,0,0
+10238,Ústí Food Processing,238,0,0
+10239,Ústí Pharmaceutical Industries,239,0,0
+10240,Ústí Industrial Park,240,0,0
+10241,Liberec Regional Hospital,241,0,0
+10242,Liberec Food Industries,242,0,0
+10243,Liberec Industrial Park,243,0,0
+10244,Technical University Hospital Liberec,244,1,0
+10245,Liberec Manufacturing Complex,245,0,0
+10246,Liberec Medical Center,246,0,0
+10247,Czech Food Processing Liberec,247,0,0
+10248,Liberec Medical Technologies,248,0,0
+10249,Liberec Industrial Solutions,249,0,0
+10250,Liberec Pharmaceutical Plant,250,0,0
+10251,University Hospital Pilsen,251,0,0
+10252,Pilsen Industrial Complex,252,2,0
+10253,Pilsen Food Industries,253,0,0
+10254,Pilsen Regional Hospital,254,0,0
+10255,Pilsen Manufacturing Solutions,255,0,0
+10256,Pilsen Medical Center,256,0,0
+10257,Pilsner Food Processing,257,0,0
+10258,Pilsen Medical Technologies,258,0,0
+10259,Pilsen Industrial Park,259,0,0
+10260,Pilsen Pharmaceutical Industries,260,0,0
+10261,University Hospital Hradec Králové,261,0,0
+10262,Hradec Food Industries,262,0,0
+10263,Hradec Industrial Park,263,0,0
+10264,Hradec Regional Hospital,264,0,0
+10265,Hradec Manufacturing Solutions,265,0,0
+10266,Hradec Medical Center,266,1,0
+10267,Czech Food Processing Hradec,267,0,0
+10268,Hradec Medical Technologies,268,0,0
+10269,Hradec Industrial Solutions,269,0,0
+10270,Hradec Pharmaceutical Plant,270,0,0
+10271,Jihlava Regional Hospital,271,0,0
+10272,Jihlava Food Industries,272,0,0
+10273,Jihlava Industrial Park,273,0,0
+10274,Vysočina Medical Center,274,0,0
+10275,Jihlava Manufacturing Complex,275,0,0
+10276,Jihlava Hospital Center,276,0,0
+10277,Jihlava Food Processing,277,0,0
+10278,Jihlava Medical Technologies,278,0,0
+10279,Jihlava Industrial Solutions,279,0,0
+10280,Jihlava Pharmaceutical Plant,280,0,0
+10281,Mělník Regional Hospital,281,0,0
+10282,Mělník Food Industries,282,0,0
+10283,Mělník Industrial Park,283,0,0
+10284,Central Bohemian Medical Center,284,0,0
+10285,Mělník Manufacturing Solutions,285,0,0
+10286,Mělník Hospital Center,286,0,0
+10287,Czech Food Processing Mělník,287,0,0
+10288,Mělník Medical Technologies,288,0,0
+10289,Mělník Industrial Solutions,289,0,0
+10290,Mělník Pharmaceutical Plant,290,0,0
+10291,Kroměříž Regional Hospital,291,0,0
+10292,Kroměříž Food Industries,292,0,0
+10293,Kroměříž Industrial Park,293,0,0
+10294,Zlín Medical Center Kroměříž,294,0,0
+10295,Kroměříž Manufacturing Complex,295,0,0
+10296,Kroměříž Hospital Center,296,0,0
+10297,Moravian Food Processing,297,0,0
+10298,Kroměříž Medical Technologies,298,0,0
+10299,Kroměříž Industrial Solutions,299,0,0
+10300,Kroměříž Pharmaceutical Plant,300,0,0
+10301,King Fahd Hospital of Jeddah,301,0,0
+10302,Jeddah Foods,302,0,0
+10303,Jeddah Industrial City,303,0,0
+10304,King Abdulaziz University Hospital,304,0,0
+10305,Jeddah Manufacturing Solutions,305,0,0
+10306,Jeddah Regional Medical Center,306,0,0
+10307,Red Sea Food Processing,307,0,0
+10308,Jeddah Medical Technologies,308,0,0
+10309,Jeddah Industrial Complex,309,0,0
+10310,Jeddah Pharmaceutical Industries,310,0,0
+10311,King Fahad Medical City,311,0,0
+10312,Riyadh Food Industries,312,0,0
+10313,Riyadh Industrial City,313,0,0
+10314,King Saud University Medical City,314,0,0
+10315,Riyadh Manufacturing Complex,315,0,0
+10316,Saudi German Hospital Riyadh,316,1,0
+10317,Central Saudi Food Processing,317,0,0
+10318,Riyadh Medical Technologies,318,0,0
+10319,Riyadh Industrial Solutions,319,0,0
+10320,Riyadh Pharmaceutical Plant,320,0,0
+10321,King Fahd Specialist Hospital,321,0,0
+10322,Dammam Food Industries,322,0,0
+10323,Dammam Industrial City,323,0,0
+10324,Dammam Medical Center,324,0,0
+10325,Eastern Province Manufacturing,325,2,0
+10326,Dammam Central Hospital,326,0,0
+10327,Arabian Gulf Food Processing,327,0,0
+10328,Dammam Medical Technologies,328,0,0
+10329,Dammam Industrial Complex,329,0,0
+10330,Dammam Pharmaceutical Industries,330,0,0
+10331,King Abdulaziz Specialist Hospital,331,0,0
+10332,Taif Food Industries,332,0,0
+10333,Taif Industrial City,333,0,0
+10334,Taif University Hospital,334,0,0
+10335,Taif Manufacturing Solutions,335,0,0
+10336,Taif Medical Center,336,1,0
+10337,Western Region Food Processing,337,0,0
+10338,Taif Medical Technologies,338,0,0
+10339,Taif Industrial Complex,339,0,0
+10340,Taif Pharmaceutical Plant,340,0,0
+10341,King Fahd Hospital Tabuk,341,0,0
+10342,Tabuk Food Industries,342,0,0
+10343,Tabuk Industrial City,343,0,0
+10344,University Hospital of Tabuk,344,0,0
+10345,Tabuk Manufacturing Complex,345,0,0
+10346,Tabuk Medical Center,346,0,0
+10347,Northern Region Food Processing,347,0,0
+10348,Tabuk Medical Technologies,348,0,0
+10349,Tabuk Industrial Solutions,349,0,0
+10350,Tabuk Pharmaceutical Industries,350,0,0
+10351,Asir Central Hospital,351,0,0
+10352,Abha Food Industries,352,0,0
+10353,Abha Industrial Park,353,0,0
+10354,King Khalid University Hospital,354,0,0
+10355,Abha Manufacturing Solutions,355,0,0
+10356,Abha Medical Center,356,0,0
+10357,Southern Region Food Processing,357,0,0
+10358,Abha Medical Technologies,358,0,0
+10359,Abha Industrial Complex,359,0,0
+10360,Abha Pharmaceutical Plant,360,0,0
+10361,King Fahd Hospital Hofuf,361,0,0
+10362,Hofuf Food Industries,362,0,0
+10363,Hofuf Industrial City,363,0,0
+10364,Al-Ahsa Medical Center,364,0,0
+10365,Hofuf Manufacturing Complex,365,0,0
+10366,Eastern Region Hospital Hofuf,366,0,0
+10367,Al-Ahsa Food Processing,367,0,0
+10368,Hofuf Medical Technologies,368,0,0
+10369,Hofuf Industrial Solutions,369,0,0
+10370,Hofuf Pharmaceutical Industries,370,0,0
+10371,King Khalid Hospital Hail,371,0,0
+10372,Hail Food Industries,372,0,0
+10373,Hail Industrial City,373,0,0
+10374,University Hospital of Hail,374,0,0
+10375,Hail Manufacturing Solutions,375,0,0
+10376,Hail Medical Center,376,0,0
+10377,Central Region Food Processing,377,0,0
+10378,Hail Medical Technologies,378,0,0
+10379,Hail Industrial Complex,379,0,0
+10380,Hail Pharmaceutical Plant,380,0,0
+10381,Al-Jawf Regional Hospital,381,0,0
+10382,Sakaka Food Industries,382,0,0
+10383,Sakaka Industrial City,383,0,0
+10384,Northern Medical Center Sakaka,384,0,0
+10385,Sakaka Manufacturing Complex,385,0,0
+10386,Sakaka Hospital Center,386,0,0
+10387,Al-Jawf Food Processing,387,2,0
+10388,Sakaka Medical Technologies,388,0,0
+10389,Sakaka Industrial Solutions,389,0,0
+10390,Sakaka Pharmaceutical Industries,390,0,0
+10391,King Fahd Hospital Medina,391,0,0
+10392,Medina Food Industries,392,0,0
+10393,Medina Industrial City,393,0,0
+10394,Islamic University Hospital,394,0,1
+10395,Medina Manufacturing Solutions,395,0,0
+10396,Medina Medical Center,396,1,0
+10397,Western Saudi Food Processing,397,0,0
+10398,Medina Medical Technologies,398,0,0
+10399,Medina Industrial Complex,399,0,0
+10400,Medina Pharmaceutical Plant,400,0,0
